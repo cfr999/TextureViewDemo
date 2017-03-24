@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\KJD\androidstudio\TextureViewDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b8172279abd43f99512feb50278730c8b3092992">
+        <dex dex="E:\KJD\androidstudio\TextureViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a4ab91f7c8a70a60e1b29440b5dc9ac0f6e6cd9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\KJD\androidstudio\TextureViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_20adbb8c14194ee9cfee9aadddac1b3e5be8cc53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\KJD\androidstudio\TextureViewDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7f6d78055d79efa0f618886a3c1eff135b9e0ba7">
+        <dex dex="E:\KJD\androidstudio\TextureViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2e88711e3fcd87856deaba7c49c822701c8f39d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\KJD\androidstudio\TextureViewDemo\app\libs\GoogleAdMobAdsSdk-6.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="17a2415dbd2bbf5e1b9e8aa27d03f666c71396ad">
+        <dex dex="E:\KJD\androidstudio\TextureViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\GoogleAdMobAdsSdk-6.3.1_51f3afb9455ec6af0df7e61249150040228865a1\classes.dex" />
+    </item>
+
+</items>

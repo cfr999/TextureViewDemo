@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navigation_expand.png",
+        "source": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\src\\main\\res\\drawable-mdpi\\navigation_expand.png"
+    },
+    {
+        "merged": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navigation_previous_item.png",
+        "source": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\src\\main\\res\\drawable-mdpi\\navigation_previous_item.png"
+    },
+    {
+        "merged": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navigation_next_item.png",
+        "source": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\src\\main\\res\\drawable-mdpi\\navigation_next_item.png"
+    },
+    {
+        "merged": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navigation_collapse.png",
+        "source": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\src\\main\\res\\drawable-mdpi\\navigation_collapse.png"
+    },
+    {
+        "merged": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\KJD\\androidstudio\\TextureViewDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
